@@ -18,3 +18,13 @@ def download_inputs(curDay):
     filename = f'inputs\\day{curDay}.txt'
     with open(filename,'w') as f:
         f.write(response.text)
+
+def splitTwo(li,split_1,split_1_1=None,split_1_2=None):
+    part1,part2 = li.split(split_1)
+    
+    if split_1_1 is not None:
+        part1 = part1.split(split_1_1)
+    if split_1_2 is not None:
+        part2 = part2.split(split_1_2)
+
+    return part1,part2
