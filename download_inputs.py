@@ -5,7 +5,7 @@ def download_inputs(curDay):
 
     # session_id_filename = "C:/Users/Rasmus/Desktop/adventofcodecookie.txt"
     session_id_filename = "C:/Users/rakrpe/OneDrive - Roskilde Universitet/Desktop/Ting/adventofcodecookie.txt"
-    session_id_filename = "C:/Users/Rasmus/Desktop/AOC_Cookie.txt"
+    # session_id_filename = "C:/Users/Rasmus/Desktop/AOC_Cookie.txt"
 
     with open(session_id_filename) as file:
         session_id = file.read()
