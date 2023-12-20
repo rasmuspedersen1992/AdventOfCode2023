@@ -20,11 +20,11 @@ Days solved:
 |Day 12|:white_large_square:|:white_large_square:|
 |Day 13|:white_large_square:|:white_large_square:|
 |Day 14|:white_large_square:|:white_large_square:|
-|Day 15|:white_large_square:|:white_large_square:|
+|Day 15|:white_check_mark:|:white_large_square:|
 |Day 16|:white_large_square:|:white_large_square:|
 |Day 17|:white_large_square:|:white_large_square:|
-|Day 18|:white_large_square:|:white_large_square:|
-|Day 19|:white_large_square:|:white_large_square:|
+|Day 18|:white_check_mark:|:white_large_square:|
+|Day 19|:white_check_mark:|:white_check_mark:|
 |Day 20|:white_large_square:|:white_large_square:|
 |Day 21|:white_large_square:|:white_large_square:|
 |Day 22|:white_large_square:|:white_large_square:|
