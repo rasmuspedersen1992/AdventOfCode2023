@@ -29,5 +29,5 @@ Days solved:
 |Day 21|:white_large_square:|:white_large_square:|
 |Day 22|:white_large_square:|:white_large_square:|
 |Day 23|:white_large_square:|:white_large_square:|
-|Day 24|:white_large_square:|:white_large_square:|
+|Day 24|:white_check_mark:|:white_large_square:|
 |Day 25|:white_large_square:|:white_large_square:|
